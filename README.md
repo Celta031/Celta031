@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wesley Raphael Martins dos Santos</h1>
-<h3 align="center">Hello, I'm a programming student. I'm studying about Front-End and a little Back-End</h3>
+<h3 align="center">Hello, I'm a programming student. I'm studying about Back-End and data science</h3>
 
 <p align="left">
 </p>
