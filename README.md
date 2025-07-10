@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://nl.pinterest.com/pin/369295238196482875/" alt="Banner do Perfil"/>
+  <img src="https://i.pinimg.com/1200x/2f/f6/57/2ff6573ae61ee84e3093ca84497162e8.jpg" alt="Banner do Perfil"/>
 </p>
 
 <h1 align="center">Olá, eu sou o Wesley! 👋</h1>
