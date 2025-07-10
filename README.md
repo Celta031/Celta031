@@ -1,13 +1,115 @@
-<h1 align="center">Hi 👋, I'm Wesley Raphael Martins dos Santos</h1>
-<h3 align="center">Hello, I'm a programming student. I'm studying about Back-End and data science</h3>
-
-<p align="left">
+<p align="center">
+  <img src="https://nl.pinterest.com/pin/369295238196482875/" alt="Banner do Perfil"/>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=celta031&show_icons=true&locale=en" alt="celta031" /></p>
-<br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=celta031&show_icons=true&locale=en&layout=compact" alt="celta031" /></p>
-<br>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+<h1 align="center">Olá, eu sou o Igor! 👋</h1>
 
+<p align="center">
+  <strong>Desenvolvedor Back-end e aspirante a Engenheiro de Dados/ML do Brasil 🇧🇷</strong>
+</p>
+<p align="center">
+  Sou movido pela curiosidade e pelo desafio de construir soluções eficientes, desde a criação de pipelines de dados robustos até o desenvolvimento de APIs performáticas.
+</p>
+
+<p align="center">
+  <a href="mailto:wesleyapael2003@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/wesleyraphaelmartins/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
+
+---
+
+- 🔭 Atualmente sou estudante de **Ciência da computação** e estou focado em aprimorar minhas habilidades em **Desenvolvimento Back-end com Python** e **Engenharia de Dados**.
+
+- 🌱 Estou sempre aprendendo sobre novas arquiteturas, boas práticas e ferramentas do ecossistema de dados, como **MLOps**, **orquestração de pipelines** e **plataformas de cloud (AWS/GCP)**.
+
+- 💡 Meus principais interesses são: `Desenvolvimento Back-end`, `Engenharia de Machine Learning`, `Ciência de Dados` e `Bancos de Dados SQL & NoSQL`.
+
+---
+
+### 🛠️ Minhas Habilidades (Tech Stack)
+
+<p align="left">
+  <strong>Linguagens:</strong><br>
+  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+  <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=PostgreSQL&logoColor=white"></a>
+  <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
+</p>
+
+<p align="left">
+  <strong>Back-end e APIs:</strong><br>
+  <a href="#"><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"></a>
+  <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"></a>
+</p>
+
+<p align="left">
+  <strong>Ciência e Engenharia de Dados:</strong><br>
+  <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"></a>
+  <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"></a>
+  <a href="#"><img alt="Scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"></a>
+  <a href="#"><img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"></a>
+</p>
+
+<p align="left">
+  <strong>Bancos de Dados:</strong><br>
+  <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"></a>
+  <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></a>
+  <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"></a>
+</p>
+
+<p align="left">
+  <strong>Ferramentas e Outros:</strong><br>
+  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
+  <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></a>
+  <a href="#"><img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"></a>
+</p>
+
+---
+
+### 🚀 Meus Projetos em Destaque
+
+<table border="1">
+  <tr>
+    <td width="50%">
+      <h3 align="center">Pipeline ETL from Scratch</h3>
+      <p align="center">
+        Um pipeline completo de Extração, Transformação e Carga (ETL) construído do zero, demonstrando todo o fluxo de dados desde a origem até o armazenamento em um banco de dados.
+        <br><br>
+        <a href="https://github.com/Celta031/etl_pipeline_from_scratch" target="_blank">
+          <img src="https://img.shields.io/badge/Ver%20Repositório-black?style=for-the-badge&logo=github">
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Dashboard de Vendas Interativo</h3>
+      <p align="center">
+        Dashboard interativo para análise de dados de vendas, permitindo a visualização de métricas e tendências de forma clara e intuitiva com Streamlit.
+        <br><br>
+        <a href="https://github.com/Celta031/Dashboard_vendas" target="_blank">
+          <img src="https://img.shields.io/badge/Ver%20Repositório-black?style=for-the-badge&logo=github">
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">API de Estacionamento</h3>
+      <p align="center">
+        API RESTful para gerenciamento de um estacionamento, cobrindo funcionalidades como registro de entrada/saída de veículos e cálculo de cobrança. Um projeto prático de back-end.
+        <br><br>
+        <a href="https://github.com/Celta031/API_Estacionamento_Simplificada" target="_blank">
+          <img src="https://img.shields.io/badge/Ver%20Repositório-black?style=for-the-badge&logo=github">
+        </a>
+      </p>
+    </td>
+     </tr>
+</table>
+
+---
+
+### 📊 Minhas Estatísticas no GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Celta031&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Celta031&layout=compact&langs_count=7&theme=tokyonight"/>
+</p>
