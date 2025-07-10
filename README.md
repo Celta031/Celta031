@@ -2,7 +2,7 @@
   <img src="https://nl.pinterest.com/pin/369295238196482875/" alt="Banner do Perfil"/>
 </p>
 
-<h1 align="center">Olá, eu sou o Igor! 👋</h1>
+<h1 align="center">Olá, eu sou o Wesley! 👋</h1>
 
 <p align="center">
   <strong>Desenvolvedor Back-end e aspirante a Engenheiro de Dados/ML do Brasil 🇧🇷</strong>
