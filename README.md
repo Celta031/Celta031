@@ -93,7 +93,7 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">API de Estacionamento</h3>
+      <h3 align="center">API de Estacionamento </h3>
       <p align="center">
         API RESTful para gerenciamento de um estacionamento, cobrindo funcionalidades como registro de entrada/saída de veículos e cálculo de cobrança. Um projeto prático de back-end.
         <br><br>
