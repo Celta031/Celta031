@@ -20,7 +20,7 @@
 
 - 🔭 Atualmente sou estudante de **Ciência da computação** e estou focado em aprimorar minhas habilidades em **Desenvolvimento Back-end com Python** e **Engenharia de Dados**.
 
-- 🌱 Estou sempre aprendendo sobre novas arquiteturas, boas práticas e ferramentas do ecossistema de dados, como **MLOps**, **orquestração de pipelines** e **plataformas de cloud (AWS/GCP)**.
+- 🌱 Estou sempre aprendendo sobre novas arquiteturas, boas práticas e ferramentas do ecossistema de dados, como **MLOps**, **orquestração de pipelines** e **plataformas de cloud (AWS/GCP/OCI)**.
 
 - 💡 Meus principais interesses são: `Desenvolvimento Back-end`, `Engenharia de Machine Learning`, `Ciência de Dados` e `Bancos de Dados SQL & NoSQL`.
 
@@ -63,47 +63,6 @@
   <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></a>
   <a href="#"><img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"></a>
 </p>
-
----
-
-### 🚀 Meus Projetos em Destaque
-
-<table border="1">
-  <tr>
-    <td width="50%">
-      <h3 align="center">Pipeline ETL from Scratch</h3>
-      <p align="center">
-        Um pipeline completo de Extração, Transformação e Carga (ETL) construído do zero, demonstrando todo o fluxo de dados desde a origem até o armazenamento em um banco de dados.
-        <br><br>
-        <a href="https://github.com/Celta031/etl_pipeline_from_scratch" target="_blank">
-          <img src="https://img.shields.io/badge/Ver%20Repositório-black?style=for-the-badge&logo=github">
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Dashboard de Vendas Interativo</h3>
-      <p align="center">
-        Dashboard interativo para análise de dados de vendas, permitindo a visualização de métricas e tendências de forma clara e intuitiva com Streamlit.
-        <br><br>
-        <a href="https://github.com/Celta031/Dashboard_vendas" target="_blank">
-          <img src="https://img.shields.io/badge/Ver%20Repositório-black?style=for-the-badge&logo=github">
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">API de Estacionamento </h3>
-      <p align="center">
-        API RESTful para gerenciamento de um estacionamento, cobrindo funcionalidades como registro de entrada/saída de veículos e cálculo de cobrança. Um projeto prático de back-end.
-        <br><br>
-        <a href="https://github.com/Celta031/API_Estacionamento_Simplificada" target="_blank">
-          <img src="https://img.shields.io/badge/Ver%20Repositório-black?style=for-the-badge&logo=github">
-        </a>
-      </p>
-    </td>
-     </tr>
-</table>
 
 ---
 
