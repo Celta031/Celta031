@@ -2,10 +2,13 @@ name: Generate Pacman Contributions SVG
 
 on:
   schedule:
+    # Roda uma vez por dia (à meia-noite UTC)
     - cron: "0 0 * * *"
   
+  # Permite que você rode manualmente pela aba "Actions"
   workflow_dispatch:
   
+  # Roda também quando você faz push para a branch main
   push:
     branches:
       - main
@@ -18,14 +21,19 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       
-      - uses: Bonch/profile-readme-pacman@v1
+      # CORREÇÃO AQUI: 'bonch/' (minúsculo) e formatação correta
+      - uses: bonch/profile-readme-pacman@v1
         with:
+          # Token obrigatório do GitHub
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
+          # O seu nome de usuário
           USERNAME: "Celta031"
           
+          # Onde o arquivo SVG será salvo no seu repositório
           OUTPUT_FILE: "dist/pacman.svg"
           
+          # --- Configurações de Cores (Dark Mode) ---
           BACKGROUND_COLOR: "#000000"
           WALL_COLOR: "#0000FF"
           PACMAN_COLOR: "#FFFF00"
