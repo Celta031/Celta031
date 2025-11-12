@@ -79,6 +79,8 @@ Já atuo profissionalmente como DevOps, buscando aplicar e criar soluções de a
 </p>
 
 
-<p align="center">
-  <img src="https://github.com/Celta031/Celta031/raw/main/dist/pacman.svg" alt="Pacman Contributions Grid" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Celta031/Celta031/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Celta031/Celta031/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Celta031/Celta031/output/pacman-contribution-graph.svg">
+</picture>
