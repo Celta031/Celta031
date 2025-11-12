@@ -70,14 +70,15 @@ Já atuo profissionalmente como DevOps, buscando aplicar e criar soluções de a
   <a href="#"><img alt="PL/SQL" src="https://img.shields.io/badge/PL/SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"></a>
 </p>
 
-<p align="center">
-  <img src="https://github.com/Celta031/Celta031/raw/main/dist/pacman.svg" alt="Pacman Contributions Grid" />
-</p>
-
 <p align="left">
   <strong>Ferramentas e Outros:</strong><br>
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
   <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></a>
   <a href="#"><img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"></a>
+</p>
+
+
+<p align="center">
+  <img src="https://github.com/Celta031/Celta031/raw/main/dist/pacman.svg" alt="Pacman Contributions Grid" />
 </p>
