@@ -1,0 +1,33 @@
+name: Generate Pacman Contributions SVG
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  
+  workflow_dispatch:
+  
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Generate Pacman Contributions SVG
+
+    steps:
+      - uses: actions/checkout@v2
+      
+      - uses: Bonch/profile-readme-pacman@v1
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
+          USERNAME: "Celta031"
+          
+          OUTPUT_FILE: "dist/pacman.svg"
+          
+          BACKGROUND_COLOR: "#000000"
+          WALL_COLOR: "#0000FF"
+          PACMAN_COLOR: "#FFFF00"
+          GHOST_COLOR: "#FF0000"
+          FOOD_COLOR: "#FFFFFF"
